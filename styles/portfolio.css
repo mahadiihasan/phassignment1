@@ -86,3 +86,147 @@
     margin-top: 3px;
 }
 
+.my-plan{
+
+    margin-top: 100px;
+}
+
+.plan{
+
+    text-align: center;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+
+.plan-icons{
+
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 200px;
+}
+
+.plan-icons h4{
+
+    font-family: 'Work Sans', sans-serif;
+    text-align: center;
+    margin-bottom: 7px;
+}
+
+.plan-icons p{
+
+    text-align: center;
+}
+
+/* #gr-image{
+
+    height: 200px;
+    width: 900px;
+    margin: 80px 200px 20px 200px;
+} */
+
+.gradient-image{
+    
+    
+    border-radius: 5px;
+    padding: 50px 120px 50px 80px;
+    margin: 80px 200px 80px 200px;
+    background: linear-gradient(to right,rgba(204,102,0,0.8),rgba(255,128,0,0.1)),url(../images/watch.png);
+    background-repeat: no-repeat; 
+
+}
+
+.gradient-image h4{
+
+    font-family: 'Work Sans', sans-serif;
+    font-size: 25px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    color: #ffffff;
+}
+
+.btn-call{
+
+    font-size: 10px;
+    font-weight: bold;
+    height: 30px;
+    border-radius: 3px;
+    border-style: none;
+    background-color: #ffffff;
+    color: #f15b22;
+    padding: 20px 30px 30px 30px;
+    
+}
+
+/* footer */
+
+.footer{
+
+    background-color: black;
+    height: 300px;
+    display: flex;
+}
+
+.footer h3{
+
+    color: white;
+    font-size: 25px;
+    font-family: 'Work Sans', sans-serif;
+    padding-top: 60px;
+    padding-left: 200px;
+}
+
+.footer p{
+
+    color: #ffffff;
+    font-size: 10px;
+    padding-top: 15px;
+    padding-left: 200px;
+
+}
+
+.footer-icon{
+    margin-left: 180px;
+    display: flex;
+    padding: 15px;
+    height: 35px;
+    width: 35px;
+}
+
+.footer-icon img{
+
+    padding: 5px;
+
+}
+
+.subscribe{
+
+    color: white;
+    padding-left: 500px;
+    padding-top: 60px;    
+}
+
+.subscribe h4{
+
+    font-family: 'Work Sans', sans-serif;
+    font-size: 15px;
+}
+
+input{
+
+    margin-top: 20px;
+    height: 25px;
+    background-color: black;
+    border-radius: 5px;
+    border-style: solid;
+}
+
+.sub_button{
+
+    margin-top: 20px;
+    padding: 10px 20px;
+    color: #f15b22;
+    background-color: white;
+    border-radius: 5px;
+}
