@@ -73,3 +73,16 @@
     margin-left: 100px;
     margin-top: 20px;
 }
+
+.list{
+
+    margin-top: 20px;
+}
+
+.list li{
+    margin-left: 80px;
+    list-style-image: url(/images/icons/check_mark.png);
+    font-size: 11px;
+    margin-top: 3px;
+}
+
