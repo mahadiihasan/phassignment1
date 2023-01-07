@@ -81,7 +81,7 @@
 
 .list li{
     margin-left: 80px;
-    list-style-image: url(/images/icons/check_mark.png);
+    list-style-image: url(/images/icons/checkmark.png);
     font-size: 11px;
     margin-top: 3px;
 }
